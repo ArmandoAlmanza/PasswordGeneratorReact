@@ -30,6 +30,7 @@ function App() {
                     type="number"
                     onChange={(e) => setLength(e.target.value)}
                 />
+                
                 <br />
                 <Checkbox
                     label={"UpperCase"}
